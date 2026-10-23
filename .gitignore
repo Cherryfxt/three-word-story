@@ -1,0 +1,5 @@
+.DS_Store
+.preview/
+*.zip
+node_modules/
+tmp/
